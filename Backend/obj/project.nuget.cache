@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f4L2+XBrDD/kejw/PSGKB76P6MTUU6N3jmXV+ncjT0QQ8gN/yiDMpih3hS4/u8SF9iF1jyF6a2AtaLDWHjBlIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Djordje\\Desktop\\PSW_projekat\\HospitalInformationSystem\\Backend\\Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Djordje\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
